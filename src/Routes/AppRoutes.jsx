@@ -5,7 +5,7 @@ import AboutPage from '../Screens/AboutPage';
 import Shop from '../Screens/Shop';
 import Footer from '../Components/Footer';
 import ProductDetails from '../Screens/ProductDetails';
-import SidebarCart from '../Screens/SideBarCart';
+import SidebarCart from '../Screens/SidebarCart';
 import { useContext, useState } from 'react';
 import { Mystore } from '../ContextApi/Context';
 import ToasterNotification from '../Components/ToasterNotification';
